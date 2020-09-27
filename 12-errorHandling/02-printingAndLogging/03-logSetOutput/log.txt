@@ -1,0 +1,1 @@
+2020/09/27 17:28:02 An error has ocurred: open non_existing.txt: El sistema no puede encontrar el archivo especificado.
